@@ -20,3 +20,6 @@ TODO: Nice photo?
 
 # Manufacturing
 TODO: Create BOM and Positioning files
+
+# Thanks
+Thanks for https://github.com/nekotato for requesting and https://github.com/Gouty for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
