@@ -1,7 +1,12 @@
 # Cooler Master Novatouch Daughterboard USB-C
-USB-C Daughterboard for Cooler Master Novatouch. (Might work with other Cooler Master boards)
+USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without any changes.  
+
 ![PCB2](/assets/pcbFrontBack.jpg)
-TOOD: Photo Installed
+
+## Disclaimers
+* Norbatouch unknown if compatible.  (Should but cannot say for sure)
+* Might work with other Cooler Master boards that use USB-Micro and the same daughterboard
+* Use at your own risk
 
 # Cable
 * JST SH to PH cable
@@ -15,8 +20,8 @@ TOOD: Photo Installed
 <details>
   <summary>JLCPCB</summary>
  
-  * [/manufacturing](/manufacturing)
-  * **Must be 1mm thick** (NOT Standard 1.6mm)
+  * Files: [/manufacturing](/manufacturing)
+  * **1mm thick** (NOT Standard 1.6mm)
   * SMD Assembly is **Standard** not economic due to USB connector
   * Confirm Parts Placement: **Yes**
 </details>
@@ -33,6 +38,6 @@ TOOD: Photo Installed
 | C212411     | Resistor           | 5.1K  | 0805     | 1      |
 </details>
 
-# Thanks
-* Thanks for https://github.com/nekotato for requesting this
+# Acknowledgments 
+* https://github.com/nekotato for validating compatibility and requesting this
 * https://github.com/Gouty for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
