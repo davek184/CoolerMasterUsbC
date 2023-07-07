@@ -2,6 +2,8 @@
 USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without any changes.  
 
 ![PCB2](/assets/pcbFrontBack.jpg)
+![PCBInstalled](/assets/pcbInstalled.jpg)
+![PCBInstalled2](/assets/pcbInstalled2.jpg)
 
 ## Disclaimers
 * Norbatouch unknown if compatible.  (Should but cannot say for sure)
