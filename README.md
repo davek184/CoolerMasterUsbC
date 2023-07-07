@@ -12,9 +12,12 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 * JST SH to PH cable
 * 5 pin
 * 150mm long
-* **Same direction**
-* https://www.aliexpress.us/item/3256804552474270.html
-![Cable](/assets/Cable.jpg) 
+* Good start cable https://www.aliexpress.us/item/3256804552474270.html (pinnout needs to be custom though see below)
+* Custom Pinout
+  
+![Cable](/assets/CablePinout.jpg) 
+![Cable](/assets/Cablev2.jpg)
+
 
 # Manufacturing
 <details>
