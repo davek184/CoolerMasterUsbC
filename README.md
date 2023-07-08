@@ -9,13 +9,16 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 * Norbatouch unknown if compatible.  (Should but cannot say for sure)
 * Might work with other Cooler Master boards that use USB-Micro and the same daughterboard
 * Use at your own risk
+* This will only give USB-C connection for the keyboard programability would need to be a custom full PCB.
 
 # Cable
 * JST SH to PH cable
 * 5 pin
 * 150mm long
-* Good start cable https://www.aliexpress.us/item/3256804552474270.html (pinnout needs to be custom though see below)
-* Custom Pinout
+* Good start cable
+  * https://www.aliexpress.us/item/3256804552474270.html
+  * "Same Direction" so only 2 wires need to be swapped after receiving
+  * See pinout diagram
   
 ![Cable](/assets/CablePinout.jpg) 
 ![Cable](/assets/Cablev2.jpg)
