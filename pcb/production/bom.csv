@@ -1,0 +1,8 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C1,R_0805,1,4.7n,
+F1,F_0805,1,Polyfuse_Small,
+J1,USB-C-SMD_C67381,1,USB-C-SMD_C67381,
+J2,JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal,1,JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal,
+R2_2,R_0805,1,5.1k,
+R2,R_0805,1,,
+U1,USBLC6-2SC6,1,USBLC6-2SC6,
