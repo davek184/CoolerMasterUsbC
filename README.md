@@ -24,9 +24,9 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 ![Cable](/assets/Cablev2.jpg)
 
 # Revisions
-1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
-1.2 Worked successfully with Novatouch and Norbatouch
-1.3 Updated design to include extra size for manufacturing along with a dummy resistor on the backside
+* 1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
+* 1.2 Worked successfully with Novatouch and Norbatouch
+* 1.3 Updated design to include extra size for manufacturing along with a dummy resistor on the backside
 
 # Manufacturing
 <details>
