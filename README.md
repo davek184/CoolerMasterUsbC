@@ -24,11 +24,11 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 ## Novatouch Pinout
 ![Cable](/assets/CablePinout.jpg) 
 ![Cable](/assets/Cablev2.jpg)
-!(/assets/novatouchcable.jpg)
+![Cable](/assets/novatouchcable.jpg)
 
 ## Masterkeys Pro S / Rapid-i Pinout
 diagrams tbd
-!(/assets/proSrapidIcable.jpg)
+![Cable](/assets/proSrapidIcable.jpg)
 
 # Revisions
 * 1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
