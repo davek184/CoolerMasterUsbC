@@ -23,10 +23,11 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 ## Novatouch Pinout  
 ![Cable](/assets/CablePinout.jpg) 
 ![Cable](/assets/Cablev2.jpg)
-![Novatouch](/assets/novatouchcable.jpg)
+![Novatouch](/assets/novatouchcable.JPG)
 
 ## Masterkeys Pro S, Rapid-i Pinout
-![[proSrapidI](/assets/proSrapidIcable.jpg)
+diagram tbd
+![[proSrapidI](/assets/proSrapidIcable.JPG)
 
 # Revisions
 * 1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
@@ -57,5 +58,5 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 </details>
 
 # Acknowledgments 
-* [Nekotato] (/https://github.com/nekotato) for validating compatibility and requesting this
-* [Gouty] (/https://github.com/Gouty) for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
+* [Nekotato](/https://github.com/nekotato) for validating compatibility and requesting this
+* [Gouty](/https://github.com/Gouty) for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
