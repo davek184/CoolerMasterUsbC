@@ -34,6 +34,14 @@ diagrams tbd
 * M2 x 4mm wafer head screw/laptop screw. For mounting CMDB into stock Novatouch case.
 * M3 x 0.5mm 6mm hex screw, 3mm hex nut. For mounting CMDB into Norbatouch. Add o-ring or washer if still sitting too low in port opening. 
 
+# Installation Photos
+
+Stock Novatouch
+
+Norbatouch PC
+
+Norbatouch Aluminum 
+
 # Revisions
 * 1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
 * 1.2 Worked successfully with Novatouch and Norbatouch
