@@ -36,11 +36,16 @@ diagrams tbd
 
 # Installation Photos
 
-Stock Novatouch
+<details><summary>Stock Novatouch</summary>
+![PCBInstalled](/assets/pcbInstalled.jpg)
+![PCBInstalled2](/assets/pcbInstalled2.jpg)
+</details>
 
-Norbatouch PC
+<details><summary>Norbatouch PC</summary>
+</details>
 
-Norbatouch Aluminum 
+<details><summary>Norbatouch Aluminum </summary>
+</details>
 
 # Revisions
 * 1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
