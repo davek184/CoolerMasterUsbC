@@ -47,6 +47,7 @@ diagrams tbd
  <summary>Norbatouch PC</summary>
 
 ![mountedinnorbatouch](/assets/mountedinnorbatouch.png) ![norbatouchpcportview](/assets/norbatouchpcportview.png) ![withm3nuts](/assets/withm3nuts.png)
+
 </details>
 
 <details>
