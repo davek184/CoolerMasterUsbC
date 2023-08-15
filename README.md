@@ -38,6 +38,7 @@ diagrams tbd
 
 <details>
  <summary>Stock Novatouch</summary>
+ 
 ![PCBInstalled](/assets/pcbInstalled.jpg)
 ![PCBInstalled2](/assets/pcbInstalled2.jpg)
 </details>
