@@ -31,7 +31,7 @@ diagrams tbd
 
 # Recommended Hardware
 
-* M2 x 4mm wafer head screw/laptop screw. For mounting CMDB into stock Novatouch case.
+* M2 x 4mm wafer head screw/laptop screw. For mounting CMDB into stock Novatouch case. https://www.aliexpress.us/item/3256801240948974.html 
 * M3 x 0.5mm 6mm hex screw, 3mm hex nut. For mounting CMDB into Norbatouch. Add o-ring or washer if still sitting too low in port opening. 
 
 # Installation Photos
