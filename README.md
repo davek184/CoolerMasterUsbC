@@ -52,6 +52,9 @@ diagrams tbd
 
 <details>
  <summary>Norbatouch Aluminum </summary>
+ 
+![norbatouch_alu_portview](/assets/norbatouch_alu_portview.jpeg)
+ 
 </details>
 
 # Revisions
