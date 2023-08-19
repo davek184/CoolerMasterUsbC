@@ -6,10 +6,10 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 ![PCBInstalled2](/assets/pcbInstalled2.jpg)
 
 ## Disclaimers
-* Norbatouch compatible if using 2 m nuts as washers.
+* Norbatouch compatible if using 2 m3 nuts as washers.
 * Might work with other Cooler Master boards that use USB-Micro and the same daughterboard
 * Use at your own risk
-* This will only give USB-C connection for the keyboard programability would need to be a custom full PCB.
+* This will only give USB-C connection for the keyboard. Programmability requires a custom full PCB.
 
 # Cable
 * JST SH to PH cable
@@ -17,11 +17,45 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 * 150mm long
 * Good start cable
   * https://www.aliexpress.us/item/3256804552474270.html
-  * "Same Direction" so only 2 wires need to be swapped after receiving
+  * "Same Direction" so only 2 wires need to be swapped after receiving. Plug in SH (small end) first. swap the D- and D+ wire on the PH end.
   * See pinout diagram
-  
+    
+## Novatouch Pinout  
 ![Cable](/assets/CablePinout.jpg) 
 ![Cable](/assets/Cablev2.jpg)
+![Novatouch](/assets/novatouchcable.JPG)
+
+## Masterkeys Pro S, Rapid-i Pinout
+diagrams tbd
+![ProS](/assets/proSrapidIcable.JPG)
+
+# Recommended Hardware
+
+* M2 x 4mm wafer head screw/laptop screw. For mounting CMDB into stock Novatouch case. https://www.aliexpress.us/item/3256801240948974.html 
+* M3 x 0.5mm 6mm hex screw, 3mm hex nut. For mounting CMDB into Norbatouch. Add o-ring or washer if still sitting too low in port opening. 
+
+# Installation Photos
+
+<details>
+ <summary>Stock Novatouch</summary>
+ 
+![PCBInstalled](/assets/pcbInstalled.jpg) ![PCBInstalled2](/assets/pcbInstalled2.jpg)
+
+</details>
+
+<details>
+ <summary>Norbatouch PC</summary>
+
+![mountedinnorbatouch](/assets/mountedinnorbatouch.png) ![norbatouchpcportview](/assets/norbatouchpcportview.png) ![withm3nuts](/assets/withm3nuts.png)
+
+</details>
+
+<details>
+ <summary>Norbatouch Aluminum </summary>
+ 
+![norbatouch_alu_portview](/assets/norbatouch_alu_portview.jpeg)
+ 
+</details>
 
 # Revisions
 * 1.1 Lets not dwell on version 1.1 other than it paved the way for version 1.2 :)
@@ -52,5 +86,5 @@ USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without 
 </details>
 
 # Acknowledgments 
-* https://github.com/nekotato for validating compatibility and requesting this
-* https://github.com/Gouty for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
+* [Nekotato](/https://github.com/nekotato) for validating compatibility and requesting this
+* [Gouty](/https://github.com/Gouty) for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
