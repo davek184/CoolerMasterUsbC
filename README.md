@@ -1,13 +1,10 @@
 # Cooler Master Novatouch Daughterboard USB-C
-USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without any changes.  
+USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without any changes.  Also fits Norbatouch, Masterkeys Pro S & Rapid-i.
 
 ![PCB2](/assets/pcbFrontBack.jpg)
-![PCBInstalled](/assets/pcbInstalled.jpg)
-![PCBInstalled2](/assets/pcbInstalled2.jpg)
 
 ## Disclaimers
 * Norbatouch compatible if using 2 m3 nuts as washers.
-* Might work with other Cooler Master boards that use USB-Micro and the same daughterboard
 * Use at your own risk
 * This will only give USB-C connection for the keyboard. Programmability requires a custom full PCB.
 
@@ -87,3 +84,4 @@ diagrams tbd
 # Acknowledgments 
 * [Nekotato](/https://github.com/nekotato) for validating compatibility and requesting this
 * [Gouty](/https://github.com/Gouty) for initial measurements from repo: https://github.com/Gouty/CM-Keyboard_USB-Breakout
+* PixelPusher for validating compatibility in Novatouch, Masterkeys Pro S & Rapid-i.
