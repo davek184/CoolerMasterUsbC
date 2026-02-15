@@ -1,6 +1,8 @@
 # Cooler Master Novatouch Daughterboard USB-C
 USB-C Daughterboard for Cooler Master Novatouch. Fits in the stock case without any changes.  Also fits Norbatouch, Masterkeys Pro S & Rapid-i.
 
+Update 2026: This version is suprior but can be difficult to obtain so built an [alternative DIY option](https://github.com/davek184/Coolermaster-USB-C-remix)
+
 ![PCB2](/assets/pcbFrontBack.jpg)
 
 ## Disclaimers
