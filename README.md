@@ -33,7 +33,8 @@ Update 2026: This version is suprior but can be difficult to obtain so built an 
 # Recommended Hardware
 
 * M2 x 4mm wafer head screw/laptop screw. For mounting CMDB into stock Novatouch case. https://www.aliexpress.us/item/3256801240948974.html 
-* M3 x 0.5mm 6mm hex screw, 3mm hex nut. For mounting CMDB into Norbatouch. Add o-ring or washer if still sitting too low in port opening. 
+* M3 x 0.5mm 6mm hex screw, 3mm hex nut. For mounting CMDB into Norbatouch. Add o-ring or washer if still sitting too low in port opening.
+* [Alternative 3d print riser](/assets/Coolermaster%20USB%20C%20Riser.stl)
 
 # Installation Photos
 
